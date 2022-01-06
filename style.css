@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+#end{
+    text-align: end;
+}
+#start{
+    text-align: start;
+}
+.bd-placeholder-img{
+    margin-left: 25%;
+}
+#m-card{
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+.float-end{
+    text-align: end;
+}
+
+
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
